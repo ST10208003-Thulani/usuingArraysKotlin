@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UsingArrays2</string>
+    <string name="txt_ENTER">ENTER</string>
+    <string name="txt_SumAvg">Total Average</string>
+    <string name="txt_HighLow">Min and Max</string>
+    <string name="txt_Clear">Clear</string>
+
+</resources>
